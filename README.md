@@ -27,3 +27,10 @@
 (8) Cassette tape recorder
 (9) Camera recorder
 
+**The Necessity of Multimedia in English Teaching**
+1. The Necessity of Development of Modern Educational Technology
+   - The development of modern educational technology not only promotes the development of educational methods and means, but also promotes the development of educational thinking and model.
+   - Modern educational technology must lead to development of multi-media teaching. Only multimedia teaching can develop and improve the modern education technology well.
+
+2. The Needs of Quality Education
+   - Multimedia English language teaching can enable students to be involved in a variety of sensory organ in the learning process and stimulate the students in the corresponding cortical function area. 
