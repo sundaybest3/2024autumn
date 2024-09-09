@@ -2,7 +2,7 @@
 *ZHANG Zhen*
 
 **Introduction**
-People who are good at multimedia have no idea about English teaching while some English teachers know little about multimedia. 
++ People who are good at multimedia have no idea about English teaching while some English teachers know little about multimedia. 
 
 **What Is Multimedia?**
 + The use of computers to present text, graphics, video, animation, and sound in an intergrated way.
