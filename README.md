@@ -16,6 +16,7 @@
 + Video: visual images of stationary or moving objects.
 
 *The Setting of Multimedia Classroom*
+
 (1) MPC(multimedia personal computer)
 (2) VCD/DVD player
 (3) Amplifier and Hi-Fi acoustic system
