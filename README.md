@@ -50,8 +50,8 @@
 *Problems*
 1. Confusion (in the role of teachers and multimedia)  
 2. Performance on behalf of the lead
-3. Lack of special skills
-4. Overuse of multimedia
+3. Teachers lacking special skills
+4. Teachers' Overuse of multimedia
 5. Lack of interaction between teachers and students
 
 
