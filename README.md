@@ -14,16 +14,15 @@
 
 *The Setting of Multimedia Classroom*
 
-(1) MPC(multimedia personal computer)
-(2) VCD/DVD player
-(3) Amplifier and Hi-Fi acoustic system
-(4) Overhead/slide projector
-(5) Screen/curtain
-(6) Projecting apparatus
-(7) The Internet access
-(8) Cassette tape recorder
-(9) Camera recorder
-
+(1) MPC(multimedia personal computer)  
+(2) VCD/DVD player  
+(3) Amplifier and Hi-Fi acoustic system  
+(4) Overhead/slide projector  
+(5) Screen/curtain  
+(6) Projecting apparatus  
+(7) The Internet access  
+(8) Cassette tape recorder  
+(9) Camera recorder  
 
 **The Necessity of Multimedia in English Teaching**
 1. The Necessity of Development of Modern Educational Technology
