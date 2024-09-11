@@ -41,17 +41,11 @@
 **The Multimedia Teaching**
 
 *Advantages*
-1. Arousing the students' interest.
-   - Multimedia can show a variety of sounds, images, animation, and other effects, firmly grasping the student's interest. 
+1. Arousing the students' interest
 2. Improving students' self-learning ability
-   - The use of multimedia will be conducive to transition for students from the traditional passive learning to active state for independent study. 
 3. Improving students' innovative ability
-   - To use multimedia can achieve the desired results and find unlimited resource in textbooks.
 4. Cultivating students' communication skills.
-   - We can create real-life scenes in the classroom through multi-media teaching.
-   - It is not only to shorten the distance between teaching and practice and give students the opportunity to use English, but to satisfy their curiosity in psychology and stimulate the expression of desire.
 5. Increasing classroom capacity.
-   - The use of multimedia technologies can make students notice a clear knowledge and a new expansion by huge information capacity. 
 
 *Problems*
 1. Confusion (in the role of teachers and multimedia)  
@@ -61,7 +55,7 @@
 5. Lack of interaction between teachers and students
 
 
-** Strategies for Using Multimedia**
+**Strategies for Using Multimedia**
 1. Combine modern teaching methods with traditional teaching methods.
 2. View multimedia as the assistance to teaching.
 3. Build the ideal relationship between teachers and students.
