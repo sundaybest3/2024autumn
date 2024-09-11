@@ -59,7 +59,7 @@
 1. Combine modern teaching methods with traditional teaching methods.
 2. View multimedia as the assistance to teaching.
 3. Build the ideal relationship between teachers and students.
-4. Strengthen teacher training
+4. Strengthen teacher training.
 
 *The Principles of Multimedia-Assisted Teaching*
 - Scientific principles: courseware design cannot appear any errors.
