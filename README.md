@@ -2,11 +2,6 @@
 
 This README provides a summary of the article titled **"The Use of Multimedia in English Teaching"** by **ZHANG Zhen**.
 
-### Citation
-Z. Zhen. (2016). *The Use of Multimedia in English Teaching*. US-China Foreign Language, March 2016, Vol. 14, No. 3, 182-189 
-
-
-
 
 **What Is Multimedia?**
 + The use of computers to present text, graphics, video, animation, and sound in an intergrated way.
@@ -73,4 +68,7 @@ Z. Zhen. (2016). *The Use of Multimedia in English Teaching*. US-China Foreign L
 - Subsidiary principle: multimedia teaching is only a supplementary means.
 - Interactivity principle: the more interactivity, the more effective results.
 - Combination principle: combine advantages of modern teaching and the traditional teaching organically.
+
   
+### Citation
+Z. Zhen. (2016). *The Use of Multimedia in English Teaching*. US-China Foreign Language, March 2016, Vol. 14, No. 3, 182-189 
